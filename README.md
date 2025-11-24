@@ -22,9 +22,11 @@ SalesAnalyzer – Python-скрипт для анализа CSV-файлов с 
 
 # ОТЧЕТ 
 
-![Можно поставить галочкy на Matplotlib](images/otchet.png)
+
+![Можно поставить галочкy на Matplotlib]
 
 
+![Отчет 1](otchet.png)
 
-![](images/otchet1.png)
 
+![Отчет 2](otchet1.png)
